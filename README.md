@@ -1,2 +1,2 @@
-# News_App
-News_App
+# capstone_project_newsapp-
+capstone_project_newsapp 
